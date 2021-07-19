@@ -1,3 +1,21 @@
+# Python
+
+[생활코딩_Python](https://opentutorials.org/course/1750)
+
+[점프 투 파이썬](https://wikidocs.net/book/1)
+
+[PY4E](https://www.py4e.com/)
+
+[10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+
+[Pandas 10분 완성](https://dataitgirls2.github.io/10minutes2pandas/)
+
+[데이터 사이언스 스쿨](https://datascienceschool.net/intro.html)
+
+
+
+
+
 ## Python 코딩 규칙
 
 1. 들여쓰기 : 공백 4칸
@@ -10,9 +28,9 @@
 
 3. `#` 주석
 
+<br>
 
-
-
+<br>
 
 ## 프로그램 
 
@@ -20,7 +38,9 @@
 
 2. 순차적 명령어 구현
 
+<br>
 
+<br>
 
 #### 파이썬 프로그램 (데이터처리)
 
@@ -36,5 +56,26 @@
 
 ---
 
+<br>
 
+<br>
+
+##### 사칙연산의 우선순위
+
+1. ( ) 괄호
+2. 지수계산
+3. 곱셈, 나눗셈
+4. 덧셈, 뺄셈
+
+5. 같은 순위면 왼쪽->오른쪽 순서로 연산
+
+
+
+##### 함수 function
+
+input (입력값, 인자) -> function (process, 처리) -> output (결과값, 출력)
+
+ex) `함수명(인자)` 로 사용 
+
+ex) `print("Hello world")` 
 
